@@ -18,7 +18,7 @@ Overall purpose is to help playwright Louise raise money for her upcoming play '
 
 ![SubcategoryOutcomesImage](https://github.com/Meghajain84/kickstarter-analysis/blob/main/resources/SubcategoryOutcomesImage.PNG)
 
-2) Based on launch date, summer months have yielded successful outcomes for all categories
+2) Based on launch date, summer months have yielded successful outcomes for all subcategories
 
 ![LaunchDateOutcomesImage](https://github.com/Meghajain84/kickstarter-analysis/blob/main/resources/LaunchDateOutcomesImage.PNG)
 
@@ -46,5 +46,5 @@ Overall purpose is to help playwright Louise raise money for her upcoming play '
 2) The sample set is not granular like what part of country, type(age, occupation) of people who contributed
 
 ### Other possible tables and/or graphs
-1) We can create table/graph using average donation in relation to outcomes, that could be pushed more in advertising
-2) We can create table/graph using date ended as well, if that played any role in outcome
+1) We can create table/graph using average donation in relation to outcome to know if that played any role
+2) We can create table/graph using date ended as well to know if that played any role in outcome
